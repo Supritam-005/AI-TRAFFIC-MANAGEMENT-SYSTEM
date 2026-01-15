@@ -46,7 +46,7 @@ Database	MongoDB / PostgreSQL
 
 🛠️ Installation
 1️⃣ Clone the Repo
-git clone https://github.com/Supritam-005/AI-TRAFFIC MAGEMENT SYSTEM
+git clone https://github.com/Supritam-005/AI-TRAFFIC-MANAGEMENT-SYSTEM
 cd ai-traffic-management
 
 2️⃣ Install Dependencies
